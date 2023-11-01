@@ -1,6 +1,6 @@
 export default {
-  DARK: '#1e1e1e',
-  LIGHT: '#FFF',
-  PRIMARY: '#dbb2ff',
-  ERROR: '#ff0000',
+  DARK: "#1e1e1e",
+  LIGHT: "#C3ACD0",
+  PRIMARY: "#7743DB",
+  ERROR: "#ff0000",
 };
